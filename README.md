@@ -1,3 +1,3 @@
-# Exploring Go GUI Options
+# A visual exploration of Go GUI Options
 
-[Wiki](https://github.com/tomarus/go-gui-libs/wiki#index)
+[See Wiki](https://github.com/tomarus/go-gui-libs/wiki)
